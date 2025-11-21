@@ -15,7 +15,11 @@
          alt="Logo Polinela" 
          class="mb-3" 
          style="width: 120px;">
+<<<<<<< HEAD
     <h2 class="fw-bold display-4 mb-2">Event Ricky, Safitri, Wahyu & Yulia</h2>
+=======
+    <h2 class="fw-bold display-4 mb-2">Event Ricky</h2>
+>>>>>>> Safitri
     <p class="fs-4 text-secondary mb-4">Platform Event Politeknik Negeri Lampung</p>
 
     <div class="d-flex flex-wrap justify-content-center gap-4 mt-3">
@@ -37,6 +41,7 @@
 
 <section id="events" class="py-5 bg-light">
   <div class="container-fluid px-5">
+    <h1 class="fw-bold text-center mb-5">EventNela</h1>
     <h2 class="fw-bold text-center mb-5">📅 Daftar Event Kampus</h2>
         <h3 class="fw-bold text-center mb-5">Semua Event kampus POLINELA</h3>
     <div class="row">
