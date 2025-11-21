@@ -82,6 +82,7 @@
 <section id="about" class="py-5">
   <div class="container-fluid px-5">
     <h2 class="fw-bold text-center mb-4">Tentang EventNela</h2>
+    <h3 class="fw-bold text-center mb-4">Event Polinela</h3>
     <div class="row justify-content-center">
       <div class="col-md-8 text-center">
         <p class="lead text-muted">
