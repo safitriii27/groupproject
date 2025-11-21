@@ -1,5 +1,6 @@
 <?php include 'config/koneksi.php'; ?>
 <?php include 'layout/header.php'; ?>
+<?php include 'layout/footer.php'; ?>
 
 <section class="container-fluid d-flex align-items-center justify-content-start bg-white position-relative overflow-hidden" 
          style="height: 100vh; max-height: 1080px;">
