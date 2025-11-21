@@ -15,7 +15,7 @@
          alt="Logo Polinela" 
          class="mb-3" 
          style="width: 120px;">
-    <h2 class="fw-bold display-4 mb-2">EventNela</h2>
+    <h2 class="fw-bold display-4 mb-2">Event Ricky</h2>
     <p class="fs-4 text-secondary mb-4">Platform Event Politeknik Negeri Lampung</p>
 
     <div class="d-flex flex-wrap justify-content-center gap-4 mt-3">
