@@ -38,6 +38,7 @@
 <section id="events" class="py-5 bg-light">
   <div class="container-fluid px-5">
     <h2 class="fw-bold text-center mb-5">📅 Daftar Event Kampus</h2>
+        <h3 class="fw-bold text-center mb-5">Semua Event kampus POLINELA</h3>
     <div class="row">
       <?php
       $result = mysqli_query($conn, "SELECT * FROM events WHERE status='approved' ORDER BY tanggal ASC");
